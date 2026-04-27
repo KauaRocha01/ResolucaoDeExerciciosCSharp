@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\InicioC#\bin\Debug\net8.0\InicioC#.exe
+C:\Users\fic\Desktop\InicioC#\bin\Debug\net8.0\InicioC#.deps.json
+C:\Users\fic\Desktop\InicioC#\bin\Debug\net8.0\InicioC#.runtimeconfig.json
+C:\Users\fic\Desktop\InicioC#\bin\Debug\net8.0\InicioC#.dll
+C:\Users\fic\Desktop\InicioC#\bin\Debug\net8.0\InicioC#.pdb
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.AssemblyInfo.cs
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.dll
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\refint\InicioC#.dll
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.pdb
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\InicioC#.genruntimeconfig.cache
+C:\Users\fic\Desktop\InicioC#\obj\Debug\net8.0\ref\InicioC#.dll

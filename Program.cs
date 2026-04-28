@@ -248,13 +248,15 @@ class Program
     
     // Console.WriteLine("Ano bissexto simplificado: " + (ano % 4 == 0));
 
-    Console.Write("Informe sua idade: ");
-    int idade = int.Parse(Console.ReadLine());
+    // Console.Write("Informe sua idade: ");
+    // int idade = int.Parse(Console.ReadLine());
 
-    Console.WriteLine("Possui convite? (true/false)");
-    bool convite = bool.Parse(Console.ReadLine());
+    // Console.WriteLine("Possui convite? (true/false)");
+    // bool convite = bool.Parse(Console.ReadLine());
 
-    Console.WriteLine("Acesso permitido: " + (idade >= 18 && convite));
+    // Console.WriteLine("Acesso permitido: " + (idade >= 18 && convite));
+
+    
 
         
     
